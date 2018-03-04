@@ -2,11 +2,11 @@
   "name": "jsoncontactlist2csv",
   "version": "1.0.0",
   "description": "Pull DMR ContactList in JSON format, parse and export as CSV.",
-  "main": "bin/app.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node bin/app.js",
-    "debug": "DEBUG=jsoncontactlist2csv node --inspect ./bin/app.js"
+    "start": "node app.js",
+    "debug": "DEBUG=jsoncontactlist2csv node --inspect ./app.js"
   },
   "keywords": [
     "CONTACTS",

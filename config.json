@@ -1,0 +1,4 @@
+{
+  "url": "http://www.dmr-marc.net/cgi-bin/trbo-database/datadump.cgi?table=users&format=json",
+  "outFileName": "contactList.csv"
+}

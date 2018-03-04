@@ -14,24 +14,6 @@
         "debug"
       ],
       "port": 9229
-    },
-    {
-      "type": "node",
-      "request": "launch",
-      "name": "Launch Program",
-      "program": "${workspaceFolder}/bin/app.js",
-      "console": "integratedTerminal"
-    },{
-    "name": "Launch Intake via node",
-    "type": "node",
-    "request": "launch",
-    "runtimeExecutable": "node",
-    "program": "/Users/michael/JS/Ham/JsonContactList2csv/bin/app.js",
-    "restart": false,
-    "env": {
-        "DEBUG": "JsonContactList2csv"
-      },
-    "console": "integratedTerminal"
     }
   ]
 }
