@@ -1,4 +1,4 @@
 {
-  "url": "http://www.dmr-marc.net/cgi-bin/trbo-database/datadump.cgi?table=users&format=json",
+  "url": "http://radioid.net/static/users.json",
   "outFileName": "contactList.csv"
 }
